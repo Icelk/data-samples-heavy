@@ -1,0 +1,3 @@
+#!/bin/sh
+
+tar -xOf $1
